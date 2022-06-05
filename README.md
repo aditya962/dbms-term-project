@@ -1,4 +1,4 @@
-Working Site: [https://aditya-dbms-tp-project.herokuapp.com/]
+Working Site: (https://aditya-dbms-tp-project.herokuapp.com/)
 
 # How to run the project?
 
